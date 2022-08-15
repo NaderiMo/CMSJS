@@ -1,2 +1,2 @@
-# cmsjs
+# CMSJS
 A CMS with JavaScript
